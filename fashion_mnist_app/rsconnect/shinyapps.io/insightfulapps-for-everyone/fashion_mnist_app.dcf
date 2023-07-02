@@ -1,0 +1,11 @@
+name: fashion_mnist_app
+title:
+username:
+account: insightfulapps-for-everyone
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9330994
+bundleId: 7370170
+url: https://insightfulapps-for-everyone.shinyapps.io/fashion_mnist_app/
+when: 1687337286.78956
+lastSyncTime: 1687337286.78956
